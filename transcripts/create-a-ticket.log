@@ -1,0 +1,23 @@
+[10/3/2021 at 18:40:5][Alex_Mar124] !setup 
+
+[10/3/2021 at 18:41:11][Alex_Mar124] !setup 
+
+[10/3/2021 at 18:41:28][Alex_Mar124] fuk 
+
+[10/3/2021 at 18:41:52][Alex_Mar124] ```js
+SyntaxError: Unexpected identifier
+?     at Object.Actions.eval (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\bot.js:344:15)
+?     at Object.action [as Check Variable] (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\actions\check_variable.js:134:34)
+?     at Object.Actions.callNextAction (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\bot.js:547:18)
+?     at Object.action [as Store Message Info] (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\actions\store_message_info.js:282:8)
+?     at Object.Actions.invokeEvent (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\bot.js:524:18)
+?     at Object.Events.callEvents (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\bot.js:989:11)
+?     at Object.Bot.onAnyMessage (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\bot.js:204:11)
+?     at Object.Bot.onMessage (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\bot.js:166:10)
+?     at Client.emit (events.js:311:20)
+?     at MessageCreateAction.handle (C:\Users\Alexander MArtin\Desktop\Walker Helper V2\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+?
+``` 
+
+[10/3/2021 at 18:42:35][Alex_Mar124] fuk 
+
